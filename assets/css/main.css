@@ -209,15 +209,15 @@ p {
   width: 45px;
   height: 45px;
   background: #E8505B;
-  display: flex;
+  display: none;
+  position: fixed;
   justify-content: center;
   align-items: center;
   font-size: 18px;
   color: #fff;
   border-radius: 5px;
-  position: fixed;
   bottom: 30px;
-  right: 30px;
+  right: 10px;
   z-index: 9;
   cursor: pointer;
   transition: all 0.3s ease-out 0s;
@@ -1452,6 +1452,8 @@ p {
 }
 
 .hero-section {
+  justify-content: center;
+  align-items: center;
   position: relative;
   padding-top: 90px;
   z-index: 1;
