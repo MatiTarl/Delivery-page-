@@ -1491,7 +1491,7 @@ p {
   }
 }
 
-@media only screen and (min-width: 768px) and (max-width: 991px) {
+@media only screen and (min-width: 768px) {
   .hero-section .hero-content {
     margin-bottom: 50px;
   }
