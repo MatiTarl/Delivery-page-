@@ -1506,6 +1506,13 @@ p {
 .hero-section .hero-content h1 {
   font-size: 60px;
   margin-bottom: 35px;
+  color: #E8505B;
+}
+.hero-section .hero-content span {
+  color: black;
+}
+.hero-section .hero-content h4 {
+  margin-bottom: 35px;
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
