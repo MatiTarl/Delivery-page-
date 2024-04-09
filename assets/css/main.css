@@ -1568,6 +1568,13 @@ p {
   width: 100%;
   margin-bottom: 30px;
   border-radius: 20px;
+}
+.imagenDeOferta:hover {
+  scale: 101%;
+  animation-delay: 2s;
+  animation: normal;
+  transition-delay: 2s;
+  transition: all;
   -webkit-box-shadow: 0px 10px 8px -3px rgba(0, 0, 0, 0.26);
   -moz-box-shadow: 0px 10px 8px -3px rgba(0, 0, 0, 0.26);
   box-shadow: 0px 10px 8px -3px rgba(0, 0, 0, 0.26);
@@ -1578,13 +1585,6 @@ p {
   }
 }
 
-.imagenDeOferta:hover {
-  scale: 101%;
-  animation-delay: 2s;
-  animation: normal;
-  transition-delay: 2s;
-  transition: all;
-}
 
 .hero-section .hero-content span {
   color: black;
