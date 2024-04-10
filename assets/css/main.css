@@ -103,7 +103,7 @@ h1 {
   font-size: 25px;
   font-weight: 600;
   color: #e8505b;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 h2 {
@@ -1509,19 +1509,19 @@ p {
 
 @media only screen and (min-width: 768px) {
   .hero-section .hero-content {
-    margin-bottom: 50px;
+    margin-bottom: 25px;
   }
 }
 
 @media (max-width: 767px) {
   .hero-section .hero-content {
-    margin-bottom: 50px;
+    margin-bottom: 25px;
   }
 }
 
 .hero-section .hero-content h1 {
   font-size: 60px;
-  margin-bottom: 35px;
+  margin-bottom: 15px;
   color: #e8505b;
 }
 .ovalo {
@@ -1566,7 +1566,7 @@ p {
 }
 .imagenDeOferta {
   width: 100%;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
   border-radius: 20px;
 }
 .imagenDeOferta:hover {
@@ -1590,7 +1590,7 @@ p {
   color: black;
 }
 .hero-section .hero-content h4 {
-  margin-bottom: 35px;
+  margin-bottom: 15px;
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
@@ -1623,7 +1623,7 @@ p {
 }
 
 .hero-section .hero-content p {
-  margin-bottom: 35px;
+  margin-bottom: 15px;
   padding-right: 55px;
 }
 
@@ -1806,13 +1806,13 @@ p {
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .delivery-img {
-    margin-bottom: 50px;
+    margin-bottom: 25px;
   }
 }
 
 @media (max-width: 767px) {
   .delivery-img {
-    margin-bottom: 50px;
+    margin-bottom: 25px;
   }
 }
 
@@ -1872,7 +1872,7 @@ p {
   padding: 40px 30px;
   border: 1px solid #e2e2e2;
   border-radius: 10px;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
   transition: all 0.3s ease-out 0s;
 }
 
@@ -1882,7 +1882,7 @@ p {
 }
 
 .testimonial-section .single-testimonial .rating {
-  margin-bottom: 30px;
+  margin-bottom: 10px;
   color: #e96a20;
 }
 
@@ -1892,7 +1892,7 @@ p {
 }
 
 .testimonial-section .single-testimonial .content {
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 
 .testimonial-section .single-testimonial .info {
@@ -1953,12 +1953,12 @@ p {
 }
 
 .footer .footer-widget {
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 
 .footer .footer-widget .logo a {
   display: inline-block;
-  margin-bottom: 25px;
+  margin-bottom: 15px;
 }
 
 .footer .footer-widget .download-btns a {
@@ -1968,7 +1968,7 @@ p {
   border-radius: 10px;
   background: rgba(255, 255, 255, 0.08);
   border: 1px solid #fff;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   margin-right: 20px;
 }
 
@@ -1998,7 +1998,7 @@ p {
 
 .footer .footer-widget h3 {
   color: #fff;
-  margin-bottom: 25px;
+  margin-bottom: 15px;
 }
 
 .footer .footer-widget ul.links li a {
